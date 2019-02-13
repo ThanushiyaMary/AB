@@ -1,20 +1,7 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Backup.master.cs" Inherits="Backup" %>
+ dat design required;
+ assigned to particular person;
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head id="Head1" runat="server">
-    <title></title>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" type="text/css" href="../2015Menu/css/demo.css" />
-    <link rel="stylesheet" type="text/css" href="../2015Menu/css/icons.css" />
-    <link rel="stylesheet" type="text/css" href="../2015Menu/css/component.css" />
-    <link href="../Styles/css/Registration.css" rel="stylesheet" type="text/css" />
-    <link href="../Styles/css/Commoncss.css" rel="stylesheet" type="text/css" />
-    <link href="../Styles/common2015css.css" rel="stylesheet" type="text/css" />
-    <script type="text/javascript" src="../2015Menu/js/modernizr.custom.js"></script>
-    <style type="text/css">
         .style1
         {
             top: 105px;
